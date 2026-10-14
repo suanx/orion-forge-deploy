@@ -1,0 +1,5 @@
+.vercel/output
+.artifact-cache
+node_modules
+.env*
+*.log

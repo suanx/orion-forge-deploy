@@ -1,0 +1,7 @@
+{
+  "repo": "suanx/orion-forge",
+  "tag": "latest",
+  "artifact": "orion-forge-prebuilt.tar.gz",
+  "updatedAt": null,
+  "note": "由私有仓 Actions 自动更新。tag=latest 表示拉取最新 Release；改成具体 tag 后 bootstrap 会锁定该版本。"
+}

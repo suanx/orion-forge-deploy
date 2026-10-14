@@ -1,0 +1,9 @@
+{
+  "name": "orion-forge-deploy",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Orion Forge 的一键部署门面仓：只有部署配置，源码与产物都在私有仓",
+  "scripts": {
+    "build": "node bootstrap.mjs"
+  }
+}
