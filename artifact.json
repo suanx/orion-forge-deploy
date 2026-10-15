@@ -2,12 +2,12 @@
   "repo": "suanx/orion-forge",
   "tag": "latest",
   "artifact": "orion-forge-prebuilt.tar.gz",
-  "updatedAt": "2026-10-15T07:31:38.350Z",
+  "updatedAt": "2026-10-15T08:00:15.757Z",
   "note": "由私有仓 Actions 自动更新。tag=latest 表示拉取最新 Release；改成具体 tag 后 bootstrap 会锁定该版本。",
   "lastRelease": {
-    "tag": "prebuilt-9ad0306cb17e42375974bbbc0c45a330e042258f",
-    "sha256": "7b6c2564ea8a16bf173eda38e4b042a92115f57bbf532e3a87bfbfb48a2e1356",
-    "sizeBytes": 6929115,
-    "commit": "9ad0306cb17e42375974bbbc0c45a330e042258f"
+    "tag": "prebuilt-8f873e41c23d1eb16648c7a711b4ee4dac829de9",
+    "sha256": "65f3ae03170794b638c0afbc73027526950e66ce6768bc3dd7d9aceb0a61bcb0",
+    "sizeBytes": 8514368,
+    "commit": "8f873e41c23d1eb16648c7a711b4ee4dac829de9"
   }
 }
